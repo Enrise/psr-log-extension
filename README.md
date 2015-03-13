@@ -1,6 +1,9 @@
 Enrise Psr\Log extension
 =================
 
+[![Latest Stable Version](https://poser.pugx.org/enrise/log/v/stable.svg)](https://packagist.org/packages/enrise/log)
+[![License](https://poser.pugx.org/enrise/log/license.svg)](https://packagist.org/packages/enrise/log)
+
 This repository contains an extension on the `LoggerAwareTrait` that comes with the `Psr\Log` package.
 It contains convenience methods to use the `LoggerAwareInterface` implementation in a safe way. Meaning you don't have 
 to care whether the class you're implementing actually has a logger instance attached to it.
