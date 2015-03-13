@@ -1,6 +1,6 @@
 {
     "name": "enrise/log",
-    "description": "Extensions to the Psr\\Log package",
+    "description": "An extension to the Psr\\Log package",
     "license": "MIT",
     "authors": [
         {
