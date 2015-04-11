@@ -33,3 +33,12 @@ $foo->bar(); // All fine
 $foo->setLogger(new ConcreteLogger());
 $foo->bar(); // Writes to the logger as usual
 ```
+
+## Credits
+
+- [Richard Tuin](https://github.com/rtuin)
+- [All Contributors](../../contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
